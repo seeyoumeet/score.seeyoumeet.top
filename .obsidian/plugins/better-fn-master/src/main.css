@@ -1,0 +1,42 @@
+sup.footnote-ref {
+  user-select: none;
+  cursor: pointer;
+  color: var(--text-accent);
+}
+
+.visuallyhidden:not(:focus):not(:active) {
+  position: absolute;
+
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+
+  clip-path: inset(100%);
+  overflow: hidden;
+}
+
+.markdown-preview-view .tippy-content > span.internal-embed {
+  min-width: 20em;
+}
+
+.markdown-preview-view .tippy-content {
+  max-height: 20em;
+  overflow-x: auto;
+  font-size: calc(var(--editor-font-size) * 0.9);
+}
+
+.markdown-preview-view .tippy-content a.footnote-backref {
+  display: none;
+}
+
+span > [data-tippy-root] {
+  display: inline;
+}
+
+section.footnotes li[data-footnote-id] {
+  transition: background-color 0.5s ease-in-out;
+}

@@ -1,0 +1,15 @@
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# obsidian plugin files
+main.js
+main.js.map
+data.json
+
+coverage
+dist
+tsconfig.tsbuildinfo

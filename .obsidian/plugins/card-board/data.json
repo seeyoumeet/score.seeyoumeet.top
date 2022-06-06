@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [],
+          "completedCount": 10,
+          "filters": [],
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": ""
+        }
+      }
+    ],
+    "globalSettings": {
+      "hideCompletedSubtasks": false,
+      "ignorePaths": [],
+      "subTaskDisplayLimit": null
+    }
+  }
+}
