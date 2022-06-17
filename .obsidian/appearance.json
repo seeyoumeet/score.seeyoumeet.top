@@ -1,4 +1,5 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Aurora"
+  "cssTheme": "Aurora",
+  "baseFontSize": 16
 }
