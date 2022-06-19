@@ -7,8 +7,10 @@
         "id": "37f438af8b8ecc30",
         "type": "leaf",
         "state": {
-          "type": "big-calendar",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf"
+              }
             }
           },
           {
@@ -99,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "56c505e0d1b434b9",
@@ -118,11 +122,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "37f438af8b8ecc30",
   "lastOpenFiles": [
+    "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf",
     "weread/《金刚经》说什么.md",
     "weread/蒋勋说唐诗（修订版）.md",
     "weread/怦然心动的人生整理魔法（全2册：整理术+实践解惑）.md",
@@ -131,7 +135,6 @@
     "score.seeyoumeet.top/blues/500英里.jpg",
     "score.seeyoumeet.top/blues/500 Miles.jpg",
     "listening.seeyoumeet.top/english/节目/VOA 常速/20220531/22.pdf",
-    "listening.seeyoumeet.top/english/节目/VOA 常速/20220531/Superstar.jpg",
-    "listening.seeyoumeet.top/english/节目/VOA 常速/20220531/05!31!22.mp3"
+    "listening.seeyoumeet.top/english/节目/VOA 常速/20220531/Superstar.jpg"
   ]
 }
