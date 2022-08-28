@@ -7,10 +7,8 @@
         "id": "37f438af8b8ecc30",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GuitarPro制谱/光阴的故事/光阴的故事(GuitarPro制作).pdf"
-              }
+              "state": {}
             }
           },
           {
